@@ -1,0 +1,27 @@
+{
+  "name": "etperspiciatis",
+  "version": "1.0.0",
+  "description": "BPMN-JS plugin to allow task resizing in diagrams",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SchuylerPouros/etperspiciatis.git"
+  },
+  "keywords": [
+    "et",
+    "perspiciatis",
+    "id",
+    "animi"
+  ],
+  "author": "DudleyProhaska",
+  "license": "MIT",
+  "homepage": "https://github.com/SchuylerPouros/etperspiciatis.git",
+  "dependencies": {
+    "bpmn-js": "*",
+    "diagram-js": "*"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
